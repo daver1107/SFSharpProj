@@ -10,7 +10,7 @@ namespace SFSharpProj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! it's a new day");
             Console.ReadLine();
         }
     }
