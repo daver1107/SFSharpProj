@@ -10,9 +10,10 @@ namespace SFSharpProj
     {
         static void Main(string[] args)
         {
-            var str  = "Hello world!"
+            var str = "Hello world!";
             Console.WriteLine(str);
-            Console.ReadLine();
+            var response =  Console.ReadLine();
+            Console.WriteLine(response);    
         }
     }
 }
