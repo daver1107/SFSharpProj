@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace SFSharpProj
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
